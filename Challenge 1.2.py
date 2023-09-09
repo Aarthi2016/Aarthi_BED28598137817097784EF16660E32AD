@@ -7,4 +7,4 @@ def factorial(n):
 # Example usage:
 number = 5  # Replace this with the desired number
 result = factorial(number)
-print(f"The factorial of {number} is {result}")
+print(f"The factorial of {number} is {result}"
